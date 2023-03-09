@@ -1,0 +1,36 @@
+body {
+	font-family: Ariel, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+    background: #d8dcdf;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #420444;
+}
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.topnav a:hover {
+    color: #ffbb00!important;
+}
+
+.topnav div  {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.topnav div:hover {
+    color: #ffbb00!important;
+}
