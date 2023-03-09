@@ -1,2 +1,2 @@
-# web_development-
-Power Learn Project, Web Development tasks
+# web_development
+Power Learn Project, Web Development Tasks
